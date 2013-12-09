@@ -16,7 +16,7 @@ Before:
     <p>... and guess what? This is the third paragraph</p>
 </div>
 ```
-in your javascript file use the following lines of code:
+in your javascript file use the following line of code:
 ```JavaScript
 $("#content").splitColumn();
 ```
