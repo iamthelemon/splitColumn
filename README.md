@@ -5,7 +5,7 @@ A jQuery plugin to spread the elements within a DIV element across two columns t
 
 How to apply
 ------------
-Use this plugin on the containing element (preferably <DIV>). It creates two extra layers between the containing element and the child elements.
+Use this plugin on the containing element (preferably ```<div>```). It creates two extra layers between the containing element and the child elements.
 
 Before:
 ```HTML
